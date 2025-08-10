@@ -69,4 +69,3 @@ Pull requests are welcome! For major changes, please open an issue first.
 *Developed during the CodeAlpha Python Internship Program*  
 [![CodeAlpha Badge](https://img.shields.io/badge/Internship-CodeAlpha-blue)](https://www.codealpha.tech)
 ```
-
